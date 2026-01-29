@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <attributes/>
+        <authored_on_release_version>28100</authored_on_release_version>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from>9a41b6c2ff12101088e94ee9453bf1a4</copied_from>
+        <copied_from_name>FlowTemplate_Empty</copied_from_name>
+        <description>Flow Designer to automate the steps of creating and reviewing a post.</description>
+        <display_name_after_preview/>
+        <flow_priority/>
+        <generation_source/>
+        <internal_name>post__flow_designer</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <master_snapshot_digest/>
+        <name>Post - Flow Designer </name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <substatus/>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-26 00:10:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9801b8eb83a6b21014da99c0deaad3d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Post - Flow Designer </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
+        <sys_update_name>sys_hub_flow_9801b8eb83a6b21014da99c0deaad3d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-26 00:10:57</sys_updated_on>
+        <type>flow</type>
+        <updation_source/>
+        <version>2</version>
+        <version_record/>
+    </sys_hub_flow>
+    <sys_translated_text action="DELETE" query="documentkey=9801b8eb83a6b21014da99c0deaad3d3"/>
+    <sys_variable_value action="DELETE" query="document_key=9801b8eb83a6b21014da99c0deaad3d3"/>
+    <sys_hub_flow_stage action="DELETE" query="flow=9801b8eb83a6b21014da99c0deaad3d3"/>
+    <sys_flow_cat_variable_model action="DELETE" query="id=9801b8eb83a6b21014da99c0deaad3d3^sys_idNOT INd001b8eb83a6b21014da99c0deaad3d8"/>
+    <sys_flow_cat_variable_model action="DELETE">
+        <id>9801b8eb83a6b21014da99c0deaad3d3</id>
+        <name>Post - Flow Designer </name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-26 00:10:57</sys_created_on>
+        <sys_id>d001b8eb83a6b21014da99c0deaad3d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-26 00:10:57</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="DELETE" query="flow_catalog_model=d001b8eb83a6b21014da99c0deaad3d8"/>
+    <sys_hub_flow_input action="DELETE" query="model=9801b8eb83a6b21014da99c0deaad3d3"/>
+    <sys_hub_flow_output action="DELETE" query="model=9801b8eb83a6b21014da99c0deaad3d3"/>
+    <sys_hub_alias_mapping action="DELETE" query="source_id=9801b8eb83a6b21014da99c0deaad3d3"/>
+    <sys_hub_trigger_instance_v2 action="DELETE" query="flow=9801b8eb83a6b21014da99c0deaad3d3"/>
+    <sys_hub_action_instance_v2 action="DELETE" query="flow=9801b8eb83a6b21014da99c0deaad3d3"/>
+    <sys_hub_sub_flow_instance_v2 action="DELETE" query="flow=9801b8eb83a6b21014da99c0deaad3d3"/>
+    <sys_hub_flow_logic_instance_v2 action="DELETE" query="flow=9801b8eb83a6b21014da99c0deaad3d3"/>
+    <sys_hub_pill_compound action="DELETE" query="attached_to=9801b8eb83a6b21014da99c0deaad3d3"/>
+    <sys_hub_flow_variable action="DELETE" query="model=9801b8eb83a6b21014da99c0deaad3d3"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_flow_input_9801b8eb83a6b21014da99c0deaad3d3"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_flow_output_9801b8eb83a6b21014da99c0deaad3d3"/>
+    <sys_flow_trigger_plan action="DELETE" query="plan_id=9801b8eb83a6b21014da99c0deaad3d3"/>
+    <sys_flow_subflow_plan action="DELETE" query="plan_id=9801b8eb83a6b21014da99c0deaad3d3"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</application>
+        <file_path/>
+        <instance_id>a67bfa40ebbf4ad45a2dfceacad0cd9e</instance_id>
+        <instance_name>dev282827</instance_name>
+        <name>sys_hub_flow_9801b8eb83a6b21014da99c0deaad3d3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow"><sys_hub_flow action="INSERT_OR_UPDATE"><access>public</access><acls/><active>false</active><annotation/><attributes/><authored_on_release_version>28100</authored_on_release_version><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from>9a41b6c2ff12101088e94ee9453bf1a4</copied_from><copied_from_name>FlowTemplate_Empty</copied_from_name><description>Flow Designer to automate the steps of creating and reviewing a post.</description><display_name_after_preview/><flow_priority/><generation_source/><internal_name>post__flow_designer</internal_name><label_cache>[]</label_cache><latest_snapshot/><master_snapshot/><master_snapshot_digest/><name>Post - Flow Designer </name><natlang/><outputs/><pre_compiled>false</pre_compiled><remote_trigger_id/><run_as>user</run_as><run_with_roles/><sc_callable>false</sc_callable><show_draft_actions>false</show_draft_actions><show_triggered_flows>false</show_triggered_flows><status>draft</status><substatus/><sys_class_name>sys_hub_flow</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-01-26 00:10:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9801b8eb83a6b21014da99c0deaad3d3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Post - Flow Designer </sys_name><sys_overrides/><sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package><sys_policy/><sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope><sys_update_name>sys_hub_flow_9801b8eb83a6b21014da99c0deaad3d3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-01-26 00:10:57</sys_updated_on><type>flow</type><updation_source/><version>2</version><version_record/></sys_hub_flow><sys_translated_text action="delete_multiple" query="documentkey=9801b8eb83a6b21014da99c0deaad3d3"/><sys_variable_value action="delete_multiple" query="document_key=9801b8eb83a6b21014da99c0deaad3d3"/><sys_hub_flow_stage action="delete_multiple" query="flow=9801b8eb83a6b21014da99c0deaad3d3"/><sys_flow_cat_variable_model action="delete_multiple" query="id=9801b8eb83a6b21014da99c0deaad3d3^sys_idNOT INd001b8eb83a6b21014da99c0deaad3d8"/><sys_flow_cat_variable_model action="INSERT_OR_UPDATE"><id>9801b8eb83a6b21014da99c0deaad3d3</id><name>Post - Flow Designer </name><sys_created_by>admin</sys_created_by><sys_created_on>2026-01-26 00:10:57</sys_created_on><sys_id>d001b8eb83a6b21014da99c0deaad3d8</sys_id><sys_mod_count>0</sys_mod_count><sys_scope/><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-01-26 00:10:57</sys_updated_on></sys_flow_cat_variable_model><sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=d001b8eb83a6b21014da99c0deaad3d8"/><sys_hub_flow_input action="delete_multiple" query="model=9801b8eb83a6b21014da99c0deaad3d3"/><sys_hub_flow_output action="delete_multiple" query="model=9801b8eb83a6b21014da99c0deaad3d3"/><sys_hub_alias_mapping action="delete_multiple" query="source_id=9801b8eb83a6b21014da99c0deaad3d3"/><sys_hub_trigger_instance_v2 action="delete_multiple" query="flow=9801b8eb83a6b21014da99c0deaad3d3"/><sys_hub_action_instance_v2 action="delete_multiple" query="flow=9801b8eb83a6b21014da99c0deaad3d3"/><sys_hub_sub_flow_instance_v2 action="delete_multiple" query="flow=9801b8eb83a6b21014da99c0deaad3d3"/><sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=9801b8eb83a6b21014da99c0deaad3d3"/><sys_hub_pill_compound action="delete_multiple" query="attached_to=9801b8eb83a6b21014da99c0deaad3d3"/><sys_hub_flow_variable action="delete_multiple" query="model=9801b8eb83a6b21014da99c0deaad3d3"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_9801b8eb83a6b21014da99c0deaad3d3"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_9801b8eb83a6b21014da99c0deaad3d3"/><sys_flow_trigger_plan action="delete_multiple" query="plan_id=9801b8eb83a6b21014da99c0deaad3d3"/><sys_flow_subflow_plan action="delete_multiple" query="plan_id=9801b8eb83a6b21014da99c0deaad3d3"/></record_update>]]></payload>
+        <payload_hash>234112242</payload_hash>
+        <record_name>Post - Flow Designer </record_name>
+        <reverted_from/>
+        <source>49863b9e8366321014da99c0deaad346</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-26 00:10:57</sys_created_on>
+        <sys_id>1001b8eb83a6b21014da99c0deaad3ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19bf7a3ac030000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-26 00:10:57</sys_updated_on>
+        <type>Flow</type>
+        <update_guid>1801b8eb05a6b2109e82f2ead9febedf</update_guid>
+        <update_guid_history>1801b8eb05a6b2109e82f2ead9febedf:234112242</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-26 02:11:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>0d197d8c77fc415482ed8a42527f0f84</sys_id>
+        <sys_metadata>9801b8eb83a6b21014da99c0deaad3d3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Post - Flow Designer </sys_name>
+        <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
+        <sys_scope_delete display_value="">12b269400901497c872abfc539d6f4c4</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_9801b8eb83a6b21014da99c0deaad3d3</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_9801b8eb83a6b21014da99c0deaad3d3">1001b8eb83a6b21014da99c0deaad3ed</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-26 02:11:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

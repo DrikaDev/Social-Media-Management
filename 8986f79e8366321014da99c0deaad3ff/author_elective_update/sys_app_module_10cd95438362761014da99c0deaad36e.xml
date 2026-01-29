@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Social Media Management">06a6cdfe83aeb21014da99c0deaad334</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create new</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_980413_social_0_channel</name>
+        <order>110</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-24 14:11:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>10cd95438362761014da99c0deaad36e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Create new</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
+        <sys_update_name>sys_app_module_10cd95438362761014da99c0deaad36e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-24 14:27:19</sys_updated_on>
+        <timeline_page/>
+        <title>Create new</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</application>
+        <file_path/>
+        <instance_id>a67bfa40ebbf4ad45a2dfceacad0cd9e</instance_id>
+        <instance_name>dev282827</instance_name>
+        <name>sys_app_module_10cd95438362761014da99c0deaad36e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Social Media Management">06a6cdfe83aeb21014da99c0deaad334</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create new</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_980413_social_0_channel</name><order>110</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-01-24 14:11:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>10cd95438362761014da99c0deaad36e</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Create new</sys_name><sys_overrides/><sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package><sys_policy/><sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope><sys_update_name>sys_app_module_10cd95438362761014da99c0deaad36e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-01-24 14:27:19</sys_updated_on><timeline_page/><title>Create new</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1375702908</payload_hash>
+        <record_name>Create new</record_name>
+        <reverted_from/>
+        <source>49863b9e8366321014da99c0deaad346</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-24 14:27:19</sys_created_on>
+        <sys_id>1dd121038362761014da99c0deaad38e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19bf066fc770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-24 14:27:19</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d9d12103cd627610567ec995d1d5448d</update_guid>
+        <update_guid_history>d9d12103cd627610567ec995d1d5448d:1375702908,2b7021c739627610823e1be29b24a86c:-1145454526,a61e118355627610b10a4154779f8a1e:-240746734</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create new">ec94e5cf8362761014da99c0deaad3c7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-24 14:39:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>133979e17f0b4364870217cb7aebecc4</sys_id>
+        <sys_metadata>10cd95438362761014da99c0deaad36e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create new</sys_name>
+        <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
+        <sys_scope_delete display_value="">12b269400901497c872abfc539d6f4c4</sys_scope_delete>
+        <sys_update_name>sys_app_module_10cd95438362761014da99c0deaad36e</sys_update_name>
+        <sys_update_version display_value="sys_app_module_10cd95438362761014da99c0deaad36e">1dd121038362761014da99c0deaad38e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-24 14:39:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

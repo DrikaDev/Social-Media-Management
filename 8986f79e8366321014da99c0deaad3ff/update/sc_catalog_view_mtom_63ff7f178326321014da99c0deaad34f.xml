@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Social Media Aoop">fdeff7178326321014da99c0deaad31c</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-25 20:36:49</sys_created_on>
+        <sys_id>63ff7f178326321014da99c0deaad34f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Social Media Aoop.catalog_social_media_aoop</sys_name>
+        <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_social_media_aoop">23ff7f178326321014da99c0deaad34c</sys_portal_page>
+        <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_63ff7f178326321014da99c0deaad34f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-25 20:36:49</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

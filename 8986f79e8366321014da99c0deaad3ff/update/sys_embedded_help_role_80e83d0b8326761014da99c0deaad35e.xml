@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_980413_social_0.social_analyst" name="x_980413_social_0.social_analyst">0ce8f90b8326761014da99c0deaad36e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-24 16:07:59</sys_created_on>
+        <sys_id>80e83d0b8326761014da99c0deaad35e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0ce8f90b8326761014da99c0deaad36e</sys_name>
+        <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
+        <sys_update_name>sys_embedded_help_role_80e83d0b8326761014da99c0deaad35e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-24 16:07:59</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

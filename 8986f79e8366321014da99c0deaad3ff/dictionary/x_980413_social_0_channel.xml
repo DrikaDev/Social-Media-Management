@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4bcafb9683a6321014da99c0deaad3e8" label="Channel" max_length="40" name="x_980413_social_0_channel" type="collection">
+        <element choice="3" default="facebook" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Linkedin" sequence="2" value="linkedin"/>
+                <element inactive_on_update="false" label="Facebook" sequence="0" value="facebook"/>
+                <element inactive_on_update="false" label="Instagram" sequence="1" value="instagram"/>
+                <element inactive_on_update="false" label="YouTube" sequence="3" value="youtube"/>
+            </choice>
+        </element>
+        <element label="Observations" max_length="500" name="observations" type="string"/>
+        <element label="Number" max_length="255" name="numbe0" type="integer"/>
+        <element display="true" label="Profile" max_length="1024" name="profile" type="url"/>
+        <element label="Password" max_length="100" name="password" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="0" label="Number of Posts" max_length="40" name="number_os_posts" type="integer"/>
+        <element label="Username" max_length="100" name="username" type="string"/>
+        <element label="Number of Followers" max_length="40" name="number_of_followers" type="integer"/>
+    </element>
+</database>

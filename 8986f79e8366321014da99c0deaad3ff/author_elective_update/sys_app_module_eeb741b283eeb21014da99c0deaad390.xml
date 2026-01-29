@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Social Media Management">06a6cdfe83aeb21014da99c0deaad334</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type/>
+        <map_page/>
+        <mobile_title>Channel</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_980413_social_0_channel</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-23 17:55:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eeb741b283eeb21014da99c0deaad390</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Channel</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
+        <sys_update_name>sys_app_module_eeb741b283eeb21014da99c0deaad390</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-24 14:26:38</sys_updated_on>
+        <timeline_page/>
+        <title>Channel</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</application>
+        <file_path/>
+        <instance_id>a67bfa40ebbf4ad45a2dfceacad0cd9e</instance_id>
+        <instance_name>dev282827</instance_name>
+        <name>sys_app_module_eeb741b283eeb21014da99c0deaad390</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Social Media Management">06a6cdfe83aeb21014da99c0deaad334</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type/><map_page/><mobile_title>Channel</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_980413_social_0_channel</name><order>100</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-01-23 17:55:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>eeb741b283eeb21014da99c0deaad390</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Channel</sys_name><sys_overrides/><sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package><sys_policy/><sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope><sys_update_name>sys_app_module_eeb741b283eeb21014da99c0deaad390</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-01-24 14:26:38</sys_updated_on><timeline_page/><title>Channel</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1615345187</payload_hash>
+        <record_name>Channel</record_name>
+        <reverted_from/>
+        <source>49863b9e8366321014da99c0deaad346</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-24 14:26:38</sys_created_on>
+        <sys_id>d7a1a54b8362761014da99c0deaad311</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19bf0665bac0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-24 14:26:38</sys_updated_on>
+        <type>Module</type>
+        <update_guid>97a1a54b4e627610552e15ce19692710</update_guid>
+        <update_guid_history>97a1a54b4e627610552e15ce19692710:-1615345187,6830e187a56276104d3f1aefecbed425:-516887004,63c705b2c6eeb210f69ec8b40c27a6ad:-748159889</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Channel">6202e18b8362761014da99c0deaad37b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-24 14:28:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>093f0770a0e042e68422ccee463bd804</sys_id>
+        <sys_metadata>eeb741b283eeb21014da99c0deaad390</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Channel</sys_name>
+        <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
+        <sys_scope_delete display_value="">12b269400901497c872abfc539d6f4c4</sys_scope_delete>
+        <sys_update_name>sys_app_module_eeb741b283eeb21014da99c0deaad390</sys_update_name>
+        <sys_update_version display_value="sys_app_module_eeb741b283eeb21014da99c0deaad390">d7a1a54b8362761014da99c0deaad311</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-24 14:28:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

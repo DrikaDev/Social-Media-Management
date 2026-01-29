@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 2" section_id="fd8485fa83aeb21014da99c0deaad31f" sys_domain="global" table="x_980413_social_0_channel" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>observations</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-01-23 17:40:49</sys_created_on>
+            <sys_id>8a8485fa83aeb21014da99c0deaad3a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 2" display_value="New section 2" name="x_980413_social_0_channel" sys_domain="global" view="Default view">fd8485fa83aeb21014da99c0deaad31f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-01-23 17:40:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 2</caption>
+            <header>false</header>
+            <name>x_980413_social_0_channel</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-01-23 17:40:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd8485fa83aeb21014da99c0deaad31f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_980413_social_0_channel</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
+            <sys_update_name>sys_ui_section_fd8485fa83aeb21014da99c0deaad31f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-01-23 17:40:48</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</application>
+        <file_path/>
+        <instance_id>a67bfa40ebbf4ad45a2dfceacad0cd9e</instance_id>
+        <instance_name>dev282827</instance_name>
+        <name>sys_ui_section_fd8485fa83aeb21014da99c0deaad31f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 2" section_id="fd8485fa83aeb21014da99c0deaad31f" sys_domain="global" table="x_980413_social_0_channel" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>observations</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-01-23 17:40:49</sys_created_on><sys_id>8a8485fa83aeb21014da99c0deaad3a9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 2" display_value="New section 2" name="x_980413_social_0_channel" sys_domain="global" view="Default view">fd8485fa83aeb21014da99c0deaad31f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-01-23 17:40:49</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 2</caption><header>false</header><name>x_980413_social_0_channel</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-01-23 17:40:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fd8485fa83aeb21014da99c0deaad31f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_980413_social_0_channel</sys_name><sys_overrides/><sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package><sys_policy/><sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope><sys_update_name>sys_ui_section_fd8485fa83aeb21014da99c0deaad31f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-01-23 17:40:48</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>202167094</payload_hash>
+        <record_name>Channel</record_name>
+        <reverted_from/>
+        <source>49863b9e8366321014da99c0deaad346</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-23 17:40:49</sys_created_on>
+        <sys_id>428485fa83aeb21014da99c0deaad3ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19bebf1c6540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-23 17:40:49</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>068485fa1caeb210ec8523949f05d4ac</update_guid>
+        <update_guid_history>068485fa1caeb210ec8523949f05d4ac:202167094</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-24 18:56:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>6d3b92b51fad4d4da258294d6bb1bce9</sys_id>
+        <sys_metadata>fd8485fa83aeb21014da99c0deaad31f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 2</sys_name>
+        <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
+        <sys_parent display_value="Channel">4bcafb9683a6321014da99c0deaad3e8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
+        <sys_scope_delete display_value="">12b269400901497c872abfc539d6f4c4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_fd8485fa83aeb21014da99c0deaad31f</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_fd8485fa83aeb21014da99c0deaad31f">428485fa83aeb21014da99c0deaad3ad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-24 18:56:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
