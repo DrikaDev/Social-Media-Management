@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Social Media Aoop">de207f1783a2321014da99c0deaad309</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-25 19:56:30</sys_created_on>
+        <sys_id>b0c63b5383e2321014da99c0deaad39a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Social Media Aoop.Social Media Users</sys_name>
+        <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_b0c63b5383e2321014da99c0deaad39a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-25 19:56:30</sys_updated_on>
+        <user_criteria display_value="Social Media Users">e296f35383e2321014da99c0deaad3ba</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</application>
+        <file_path/>
+        <instance_id>a67bfa40ebbf4ad45a2dfceacad0cd9e</instance_id>
+        <instance_name>dev282827</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_b0c63b5383e2321014da99c0deaad39a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Social Media Aoop">de207f1783a2321014da99c0deaad309</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-25 19:56:30</sys_created_on>
+        <sys_id>b0c63b5383e2321014da99c0deaad39a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Social Media Aoop.Social Media Users</sys_name>
+        <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_b0c63b5383e2321014da99c0deaad39a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-25 19:56:30</sys_updated_on>
+        <user_criteria display_value="Social Media Users">e296f35383e2321014da99c0deaad3ba</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>]]></payload>
+        <payload_hash>-1429040796</payload_hash>
+        <record_name>Social Media Aoop.Social Media Users</record_name>
+        <reverted_from/>
+        <source>9172c24d83b6321014da99c0deaad359</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-30 21:57:55</sys_created_on>
+        <sys_id>94824a4d83b6321014da99c0deaad33b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19c10e9adc20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-30 21:57:55</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>dc824a4d9eb632101283d9523eb8393a</update_guid>
+        <update_guid_history>dc824a4d9eb632101283d9523eb8393a:0,5b04e5cdb2b23210a2f1a8b522cb2b29:-1068551503,7cc63b5395e232103fb88173b5a6959e:975369880</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Social Media Aoop.Social Media Users">30fced5383b2321014da99c0deaad301</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-06 20:10:04</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>46e29a44957b4a4e922d7100f5f61b71</sys_id>
+        <sys_metadata>b0c63b5383e2321014da99c0deaad39a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Social Media Aoop.Social Media Users</sys_name>
+        <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
+        <sys_scope_delete display_value="">12b269400901497c872abfc539d6f4c4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_b0c63b5383e2321014da99c0deaad39a</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_b0c63b5383e2321014da99c0deaad39a">94824a4d83b6321014da99c0deaad33b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-06 20:10:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
