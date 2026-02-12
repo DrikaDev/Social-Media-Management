@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="09d27730830f321014da99c0deaad363" sys_domain="global" table="x_980413_social_0_post" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-02-11 21:45:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cdd27730830f321014da99c0deaad369</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_980413_social_0_post" name="x_980413_social_0_post" sys_domain="global" view="Default view">09d27730830f321014da99c0deaad363</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_980413_social_0_post" sys_domain="global" view="Default view">19aeffd683a6321014da99c0deaad30b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-02-11 21:45:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_980413_social_0_post</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-02-11 21:45:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09d27730830f321014da99c0deaad363</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_980413_social_0_post</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
+            <sys_update_name>sys_ui_form_sections_09d27730830f321014da99c0deaad363</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-02-11 21:45:52</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
