@@ -1,8 +1,6 @@
-## 🦈 Atividade 1 - Criação da aplicação e tabelas
+## 🦈 Atividade 1 - Criação da aplicação e das tabelas
 
-## 📌 Objetivo
-
-Criar uma aplicação escopada no ServiceNow para gestão de mídias sociais, permitindo que o time de Marketing registre e acompanhe postagens nos perfis da marca.
+Nesta atividade, desenvolvemos uma aplicação funcional no ServiceNow, criando tabelas customizadas e relacionamentos entre dados, aplicando boas práticas de modelagem e configuração da plataforma.
 
 ## 1. Criação da Aplicação
 
@@ -43,7 +41,7 @@ Apenas os **campos abaixo foram criados como exclusivos**. Os demais campos são
 -   `Channel` (Reference: Channel)
 -   `Total of Clicks` (Choice: -500, 500 to 1000, 1000 to 5000, +5000)
 -   `Content` (HTML)
--   `End follow-up` (True/False. Default value: Fase)
+-   `End follow-up` (True/False. Default value: False)
 
 <img width="1424" height="470" alt="image" src="https://github.com/user-attachments/assets/db8f94f7-62ca-454f-b93b-d11ef5b368dd" />
 
@@ -127,10 +125,10 @@ Criar um **Application Menus** com módulos identados para:
 -   Visualizar Posts: Criar e Listar
 
 <img width="309" height="282" alt="image" src="https://github.com/user-attachments/assets/9876602e-eee8-4db5-aabf-1cb462d76cc0" />
-> Só clicar no lápis à direita de cada submenu para ordernar.
+> Utilizar o ícone de edição (lápis) à direita de cada submenu para definir a ordem (Order).
 
 Ou vá em Application Menus - localize a sua aplicação, e faça as devidas alterações em **Order** e em **Link type**.
 <img width="1410" height="585" alt="image" src="https://github.com/user-attachments/assets/9a133831-2dfa-4a08-96e6-462bf53088ce" />
 
 ---
-
+👉🏻 [Clique aqui para voltar ao Readme](https://github.com/DrikaDev/Social-Media-Management/blob/main/README.md)📒
