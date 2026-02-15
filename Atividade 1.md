@@ -55,7 +55,7 @@ Apenas os **campos abaixo foram criados como exclusivos**. Os demais campos são
 
 <img width="794" height="482" alt="image" src="https://github.com/user-attachments/assets/ad9b4d5d-7243-465f-b8fd-534c59c44e16" />
 
-> As opções padrão da Task foram desativadas.
+> As opções padrão da Task foram desativadas.  
 
 ## 3. Configuração de Auto-number
 
@@ -125,7 +125,8 @@ Criar um **Application Menus** com módulos identados para:
 -   Visualizar Posts: Criar e Listar
 
 <img width="309" height="282" alt="image" src="https://github.com/user-attachments/assets/9876602e-eee8-4db5-aabf-1cb462d76cc0" />
-> Utilizar o ícone de edição (lápis) à direita de cada submenu para definir a ordem (Order).
+
+> Utilizar o ícone de edição (lápis) à direita de cada submenu para definir a ordem (Order).  
 
 Ou vá em Application Menus - localize a sua aplicação, e faça as devidas alterações em **Order** e em **Link type**.
 <img width="1410" height="585" alt="image" src="https://github.com/user-attachments/assets/9a133831-2dfa-4a08-96e6-462bf53088ce" />
