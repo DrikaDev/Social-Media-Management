@@ -1,7 +1,13 @@
 ## 🦈 Desafio Shark Evolution – Aoop / NTT Data
 
-Este desafio teve como objetivo avaliar conhecimentos práticos na plataforma **ServiceNow**, incluindo configuração de aplicações, modelagem de dados, controle de acesso e 
-entendimento dos conceitos básicos de ITSM e desenvolvimento low-code/no-code.  
+Este desafio teve como objetivo desenvolver uma aplicação escopada no ServiceNow para gestão de mídias sociais, permitindo que o time de Marketing registre e acompanhe postagens nos perfis da marca.
+
+Além disso, a atividade avaliou conhecimentos práticos na plataforma ServiceNow, incluindo:  
+- Configuração de aplicações
+- Modelagem de dados
+- Controle de acesso (Roles e ACLs)
+- Conceitos básicos de ITSM
+- Desenvolvimento low-code/no-code
 
 ## 🛠️ Tecnologias Utilizadas
 
