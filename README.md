@@ -53,7 +53,7 @@ Isso garante que cada perfil visualize apenas o que é permitido, seguindo boas 
 ## 💡Explicação de cada etapa do desafio
 
 - Atividade 1 - [Criação da aplicação e das tabelas](https://github.com/DrikaDev/Social-Media-Management/blob/main/Atividade%201.md)  
-- Atividade 2 
+- Atividade 2 - [Segurança e acessos]()
 - Atividade 3  
 - Atividade 4  
 - Atividade 5  
