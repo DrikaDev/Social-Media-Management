@@ -33,9 +33,17 @@ Após a criação:
 
 ## 3 - Configuração de Permissões (CRUD)
 
-O controle de acesso (CRUD) foi configurado conforme a matriz definida no desafio.
+O controle de acesso (CRUD) foi configurado conforme a matriz definida no desafio.  
 
 <img width="547" height="238" alt="image" src="https://github.com/user-attachments/assets/9c82c937-bf1a-412f-9801-6fee74da777e" />  
+
+#### **Em System Security - Access Control**, foram incluídas as roles de acordo com a exigência de cada operação:  
+
+**Na tabela Channel:**  
+<img width="1407" height="405" alt="image" src="https://github.com/user-attachments/assets/17190ad0-23bc-4832-8845-b9c32e117bac" />
+
+**Na tabela Post:**  
+<img width="1401" height="348" alt="image" src="https://github.com/user-attachments/assets/e75365e9-c549-4032-872f-e413dad084a4" />
 
 ⚠️ **Observação importante:**
 Como a tabela **Post** estende a tabela **Task**, algumas restrições de acesso podem ocorrer devido às ACLs herdadas da tabela pai.  
