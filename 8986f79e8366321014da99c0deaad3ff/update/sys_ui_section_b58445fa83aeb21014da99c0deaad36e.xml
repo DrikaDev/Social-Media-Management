@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Channel" section_id="b58445fa83aeb21014da99c0deaad36e" sys_domain="global" table="x_980413_social_0_channel" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>numbe0</element>
+            <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 18:56:28</sys_created_on>
-            <sys_id>bb6f16c7836a761014da99c0deaad31f</sys_id>
+            <sys_created_on>2026-02-15 19:50:21</sys_created_on>
+            <sys_id>33bebfce8303321014da99c0deaad318</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Channel" display_value="Channel" name="x_980413_social_0_channel" sys_domain="global" view="Default view">b58445fa83aeb21014da99c0deaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 18:56:28</sys_updated_on>
+            <sys_updated_on>2026-02-15 19:50:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>type</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 18:56:28</sys_created_on>
-            <sys_id>3b6f16c7836a761014da99c0deaad320</sys_id>
+            <sys_created_on>2026-02-15 19:50:21</sys_created_on>
+            <sys_id>b7bebfce8303321014da99c0deaad319</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Channel" display_value="Channel" name="x_980413_social_0_channel" sys_domain="global" view="Default view">b58445fa83aeb21014da99c0deaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 18:56:28</sys_updated_on>
+            <sys_updated_on>2026-02-15 19:50:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>number_os_posts</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 18:56:28</sys_created_on>
-            <sys_id>b76f16c7836a761014da99c0deaad321</sys_id>
+            <sys_created_on>2026-02-15 19:50:21</sys_created_on>
+            <sys_id>73bebfce8303321014da99c0deaad31a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Channel" display_value="Channel" name="x_980413_social_0_channel" sys_domain="global" view="Default view">b58445fa83aeb21014da99c0deaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 18:56:28</sys_updated_on>
+            <sys_updated_on>2026-02-15 19:50:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>number_of_followers</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 18:56:28</sys_created_on>
-            <sys_id>376f16c7836a761014da99c0deaad322</sys_id>
+            <sys_created_on>2026-02-15 19:50:21</sys_created_on>
+            <sys_id>3fbebfce8303321014da99c0deaad31a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Channel" display_value="Channel" name="x_980413_social_0_channel" sys_domain="global" view="Default view">b58445fa83aeb21014da99c0deaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 18:56:28</sys_updated_on>
+            <sys_updated_on>2026-02-15 19:50:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 18:56:28</sys_created_on>
-            <sys_id>b36f16c7836a761014da99c0deaad323</sys_id>
+            <sys_created_on>2026-02-15 19:50:21</sys_created_on>
+            <sys_id>f7bebfce8303321014da99c0deaad31b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Channel" display_value="Channel" name="x_980413_social_0_channel" sys_domain="global" view="Default view">b58445fa83aeb21014da99c0deaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 18:56:28</sys_updated_on>
+            <sys_updated_on>2026-02-15 19:50:21</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>profile</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 18:56:28</sys_created_on>
-            <sys_id>336f16c7836a761014da99c0deaad324</sys_id>
+            <sys_created_on>2026-02-15 19:50:21</sys_created_on>
+            <sys_id>b3bebfce8303321014da99c0deaad31c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Channel" display_value="Channel" name="x_980413_social_0_channel" sys_domain="global" view="Default view">b58445fa83aeb21014da99c0deaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 18:56:28</sys_updated_on>
+            <sys_updated_on>2026-02-15 19:50:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>username</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 18:56:28</sys_created_on>
-            <sys_id>bf6f16c7836a761014da99c0deaad324</sys_id>
+            <sys_created_on>2026-02-15 19:50:21</sys_created_on>
+            <sys_id>7fbebfce8303321014da99c0deaad31c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Channel" display_value="Channel" name="x_980413_social_0_channel" sys_domain="global" view="Default view">b58445fa83aeb21014da99c0deaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 18:56:28</sys_updated_on>
+            <sys_updated_on>2026-02-15 19:50:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>password</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 18:56:28</sys_created_on>
-            <sys_id>3f6f16c7836a761014da99c0deaad325</sys_id>
+            <sys_created_on>2026-02-15 19:50:21</sys_created_on>
+            <sys_id>3bbebfce8303321014da99c0deaad31d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Channel" display_value="Channel" name="x_980413_social_0_channel" sys_domain="global" view="Default view">b58445fa83aeb21014da99c0deaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 18:56:28</sys_updated_on>
+            <sys_updated_on>2026-02-15 19:50:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>.end_split</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 18:56:28</sys_created_on>
-            <sys_id>bb6f16c7836a761014da99c0deaad326</sys_id>
+            <sys_created_on>2026-02-15 19:50:21</sys_created_on>
+            <sys_id>f3bebfce8303321014da99c0deaad31e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Channel" display_value="Channel" name="x_980413_social_0_channel" sys_domain="global" view="Default view">b58445fa83aeb21014da99c0deaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 18:56:28</sys_updated_on>
+            <sys_updated_on>2026-02-15 19:50:21</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>observations</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-01-24 18:56:28</sys_created_on>
-            <sys_id>3b6f16c7836a761014da99c0deaad327</sys_id>
+            <sys_created_on>2026-02-15 19:50:21</sys_created_on>
+            <sys_id>bfbebfce8303321014da99c0deaad31e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Channel" display_value="Channel" name="x_980413_social_0_channel" sys_domain="global" view="Default view">b58445fa83aeb21014da99c0deaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-01-24 18:56:28</sys_updated_on>
+            <sys_updated_on>2026-02-15 19:50:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

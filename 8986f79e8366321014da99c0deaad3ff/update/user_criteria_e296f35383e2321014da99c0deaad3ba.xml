@@ -8,7 +8,7 @@
         <location/>
         <match_all>false</match_all>
         <name>Social Media Users</name>
-        <role/>
+        <role>0ce8f90b8326761014da99c0deaad36e,7858b9c78326761014da99c0deaad324</role>
         <script><![CDATA[/** Scripted User Criteria is not cached, and evaluated everytime, so performance is dependent on the script.
 * Populate `answer` with true/false or evaluate to true/false
 * The script is evaluated in the scope the user criteria is defined
@@ -23,14 +23,14 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e296f35383e2321014da99c0deaad3ba</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Social Media Users</sys_name>
         <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
         <sys_policy/>
         <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
         <sys_update_name>user_criteria_e296f35383e2321014da99c0deaad3ba</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-02-06 21:00:04</sys_updated_on>
+        <sys_updated_on>2026-02-19 01:51:30</sys_updated_on>
         <user/>
     </user_criteria>
     <sys_translated_text action="delete_multiple" query="documentkey=e296f35383e2321014da99c0deaad3ba"/>

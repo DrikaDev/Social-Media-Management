@@ -4,31 +4,27 @@
             <is_plain_text>false</is_plain_text>
             <name/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-11 21:47:39</sys_created_on>
-            <sys_id>0f33b770830f321014da99c0deaad3b4</sys_id>
+            <sys_created_on>2026-02-18 21:26:09</sys_created_on>
+            <sys_id>9471b7478307321014da99c0deaad367</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-11 21:47:39</sys_updated_on>
-            <text>&lt;b&gt;Remember:&lt;/b&gt;&#13;
-&lt;br/&gt;&#13;
-&lt;br/&gt;&#13;
-- Enter the publication date only on the day it occurs. This will update the "Status" to "Published."&#13;
-&lt;br/&gt;&#13;
-&lt;br/&gt;&#13;
--When the post follow-up is finished, check the "End follow-up" field so that the "Status" is updated to "Closed".</text>
+            <sys_updated_on>2026-02-18 21:26:09</sys_updated_on>
+            <text>&lt;p&gt;Remember:&lt;/p&gt;
+&lt;p&gt;- Enter the publication date only on the day it occurs. This will update the "Status" to "Published."&lt;/p&gt;
+&lt;p&gt;- When the post follow-up is finished, check the "End follow-up" field so that the "Status" is updated to "Closed".&lt;/p&gt;</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>0f33b770830f321014da99c0deaad3b4</element>
+            <element>9471b7478307321014da99c0deaad367</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-11 21:47:39</sys_created_on>
-            <sys_id>0b33b770830f321014da99c0deaad3b9</sys_id>
+            <sys_created_on>2026-02-18 21:26:09</sys_created_on>
+            <sys_id>1c71b7478307321014da99c0deaad37b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_980413_social_0_post" sys_domain="global" view="Default view">19aeffd683a6321014da99c0deaad30b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-11 21:47:39</sys_updated_on>
+            <sys_updated_on>2026-02-18 21:26:09</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -36,13 +32,13 @@
             <element>process_flow.xml</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-11 21:47:39</sys_created_on>
-            <sys_id>c333b770830f321014da99c0deaad3ba</sys_id>
+            <sys_created_on>2026-02-18 21:26:09</sys_created_on>
+            <sys_id>9871b7478307321014da99c0deaad37c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Process Flow">7534a7b0838b321014da99c0deaad3f6</sys_ui_formatter>
             <sys_ui_section caption="NULL" display_value="" name="x_980413_social_0_post" sys_domain="global" view="Default view">19aeffd683a6321014da99c0deaad30b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-11 21:47:39</sys_updated_on>
+            <sys_updated_on>2026-02-18 21:26:09</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
@@ -50,13 +46,13 @@
             <element>.begin_split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-11 21:47:39</sys_created_on>
-            <sys_id>8733b770830f321014da99c0deaad3bb</sys_id>
+            <sys_created_on>2026-02-18 21:26:09</sys_created_on>
+            <sys_id>1071b7478307321014da99c0deaad37e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_980413_social_0_post" sys_domain="global" view="Default view">19aeffd683a6321014da99c0deaad30b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-11 21:47:39</sys_updated_on>
+            <sys_updated_on>2026-02-18 21:26:09</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -64,13 +60,13 @@
             <element>number</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-11 21:47:39</sys_created_on>
-            <sys_id>4333b770830f321014da99c0deaad3bc</sys_id>
+            <sys_created_on>2026-02-18 21:26:09</sys_created_on>
+            <sys_id>9c71b7478307321014da99c0deaad37e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_980413_social_0_post" sys_domain="global" view="Default view">19aeffd683a6321014da99c0deaad30b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-11 21:47:39</sys_updated_on>
+            <sys_updated_on>2026-02-18 21:26:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -78,13 +74,13 @@
             <element>channel</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-11 21:47:39</sys_created_on>
-            <sys_id>0f33b770830f321014da99c0deaad3bc</sys_id>
+            <sys_created_on>2026-02-18 21:26:09</sys_created_on>
+            <sys_id>1c71b7478307321014da99c0deaad37f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_980413_social_0_post" sys_domain="global" view="Default view">19aeffd683a6321014da99c0deaad30b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-11 21:47:39</sys_updated_on>
+            <sys_updated_on>2026-02-18 21:26:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -92,13 +88,13 @@
             <element>publication_date</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-11 21:47:39</sys_created_on>
-            <sys_id>c733b770830f321014da99c0deaad3bd</sys_id>
+            <sys_created_on>2026-02-18 21:26:09</sys_created_on>
+            <sys_id>9871b7478307321014da99c0deaad380</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_980413_social_0_post" sys_domain="global" view="Default view">19aeffd683a6321014da99c0deaad30b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-11 21:47:39</sys_updated_on>
+            <sys_updated_on>2026-02-18 21:26:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -106,13 +102,13 @@
             <element>.split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-11 21:47:39</sys_created_on>
-            <sys_id>8333b770830f321014da99c0deaad3be</sys_id>
+            <sys_created_on>2026-02-18 21:26:09</sys_created_on>
+            <sys_id>1871b7478307321014da99c0deaad381</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_980413_social_0_post" sys_domain="global" view="Default view">19aeffd683a6321014da99c0deaad30b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-11 21:47:39</sys_updated_on>
+            <sys_updated_on>2026-02-18 21:26:09</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -120,13 +116,13 @@
             <element>state</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-11 21:47:39</sys_created_on>
-            <sys_id>4f33b770830f321014da99c0deaad3be</sys_id>
+            <sys_created_on>2026-02-18 21:26:09</sys_created_on>
+            <sys_id>9471b7478307321014da99c0deaad382</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_980413_social_0_post" sys_domain="global" view="Default view">19aeffd683a6321014da99c0deaad30b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-11 21:47:39</sys_updated_on>
+            <sys_updated_on>2026-02-18 21:26:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -134,13 +130,13 @@
             <element>tota_of_clicks</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-11 21:47:39</sys_created_on>
-            <sys_id>0b33b770830f321014da99c0deaad3bf</sys_id>
+            <sys_created_on>2026-02-18 21:26:09</sys_created_on>
+            <sys_id>1471b7478307321014da99c0deaad383</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_980413_social_0_post" sys_domain="global" view="Default view">19aeffd683a6321014da99c0deaad30b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-11 21:47:39</sys_updated_on>
+            <sys_updated_on>2026-02-18 21:26:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -148,13 +144,13 @@
             <element>end_follow_up</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-11 21:47:39</sys_created_on>
-            <sys_id>c333b770830f321014da99c0deaad3c0</sys_id>
+            <sys_created_on>2026-02-18 21:26:09</sys_created_on>
+            <sys_id>9071b7478307321014da99c0deaad384</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_980413_social_0_post" sys_domain="global" view="Default view">19aeffd683a6321014da99c0deaad30b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-11 21:47:39</sys_updated_on>
+            <sys_updated_on>2026-02-18 21:26:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -162,13 +158,13 @@
             <element>.end_split</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-11 21:47:39</sys_created_on>
-            <sys_id>8f33b770830f321014da99c0deaad3c0</sys_id>
+            <sys_created_on>2026-02-18 21:26:09</sys_created_on>
+            <sys_id>1071b7478307321014da99c0deaad385</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_980413_social_0_post" sys_domain="global" view="Default view">19aeffd683a6321014da99c0deaad30b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-11 21:47:39</sys_updated_on>
+            <sys_updated_on>2026-02-18 21:26:09</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -176,13 +172,13 @@
             <element>short_description</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-11 21:47:39</sys_created_on>
-            <sys_id>4b33b770830f321014da99c0deaad3c1</sys_id>
+            <sys_created_on>2026-02-18 21:26:09</sys_created_on>
+            <sys_id>9c71b7478307321014da99c0deaad385</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_980413_social_0_post" sys_domain="global" view="Default view">19aeffd683a6321014da99c0deaad30b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-11 21:47:39</sys_updated_on>
+            <sys_updated_on>2026-02-18 21:26:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -190,13 +186,13 @@
             <element>content</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-11 21:47:39</sys_created_on>
-            <sys_id>0733b770830f321014da99c0deaad3c2</sys_id>
+            <sys_created_on>2026-02-18 21:26:09</sys_created_on>
+            <sys_id>1c71b7478307321014da99c0deaad386</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_980413_social_0_post" sys_domain="global" view="Default view">19aeffd683a6321014da99c0deaad30b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-11 21:47:39</sys_updated_on>
+            <sys_updated_on>2026-02-18 21:26:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -204,13 +200,13 @@
             <element>comments</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-11 21:47:39</sys_created_on>
-            <sys_id>cf33b770830f321014da99c0deaad3c2</sys_id>
+            <sys_created_on>2026-02-18 21:26:09</sys_created_on>
+            <sys_id>9871b7478307321014da99c0deaad387</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_980413_social_0_post" sys_domain="global" view="Default view">19aeffd683a6321014da99c0deaad30b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-11 21:47:39</sys_updated_on>
+            <sys_updated_on>2026-02-18 21:26:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -218,13 +214,27 @@
             <element>work_notes</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-02-11 21:47:39</sys_created_on>
-            <sys_id>8b33b770830f321014da99c0deaad3c3</sys_id>
+            <sys_created_on>2026-02-18 21:26:09</sys_created_on>
+            <sys_id>9471b7478307321014da99c0deaad3a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_980413_social_0_post" sys_domain="global" view="Default view">19aeffd683a6321014da99c0deaad30b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-11 21:47:39</sys_updated_on>
+            <sys_updated_on>2026-02-18 21:26:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activities_formatter</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-02-18 21:26:09</sys_created_on>
+            <sys_id>1471b7478307321014da99c0deaad3a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_980413_social_0_post" sys_domain="global" view="Default view">19aeffd683a6321014da99c0deaad30b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-02-18 21:26:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

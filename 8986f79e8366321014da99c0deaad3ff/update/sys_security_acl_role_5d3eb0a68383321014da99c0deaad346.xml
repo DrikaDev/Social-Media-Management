@@ -2,17 +2,17 @@
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-02-02 20:44:19</sys_created_on>
-        <sys_id>eb6e8d8a833a321014da99c0deaad3e6</sys_id>
+        <sys_created_on>2026-02-16 19:06:15</sys_created_on>
+        <sys_id>5d3eb0a68383321014da99c0deaad346</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_980413_social_0_channel.x_980413_social_0.social_analyst</sys_name>
         <sys_package display_value="Social Media Management" source="x_980413_social_0">8986f79e8366321014da99c0deaad3ff</sys_package>
         <sys_policy/>
         <sys_scope display_value="Social Media Management">8986f79e8366321014da99c0deaad3ff</sys_scope>
-        <sys_security_acl display_value="x_980413_social_0_channel">9b6e098a833a321014da99c0deaad3d0</sys_security_acl>
-        <sys_update_name>sys_security_acl_role_eb6e8d8a833a321014da99c0deaad3e6</sys_update_name>
+        <sys_security_acl display_value="x_980413_social_0_channel">0cfdcd4a833a321014da99c0deaad309</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5d3eb0a68383321014da99c0deaad346</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-02-02 20:44:19</sys_updated_on>
+        <sys_updated_on>2026-02-16 19:06:15</sys_updated_on>
         <sys_user_role display_value="x_980413_social_0.social_analyst" name="x_980413_social_0.social_analyst">0ce8f90b8326761014da99c0deaad36e</sys_user_role>
     </sys_security_acl_role>
 </record_update>
