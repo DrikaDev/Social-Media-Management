@@ -45,14 +45,14 @@ Que recebe os grupos: `Social Media - Gestores` e `Social Media - Analistas`
 
 ## 🔹 2. Criação do Menu Item "New Post" no Employee Center
 
-<img width="890" height="95" alt="image" src="https://github.com/user-attachments/assets/14f68522-b28d-446e-b6a6-c2afe5fd70b1" />
+<img width="599" height="114" alt="image" src="https://github.com/user-attachments/assets/ec21f6e0-79fb-43a3-93e0-e8ce3082c695" />
 
-Para permitir o acesso ao *Record Producer* **via portal**, foi criado um **Menu Item** (com o nome de **New Post**) na **Header Menu** do **Employee Center Menu**:
-
+Para permitir o acesso ao *Record Producer* **via portal**:  
+- em **Service Portal/Menus** acessamos a **Header Menu** do **Employee Center Menu**:  
 <img width="1896" height="367" alt="image" src="https://github.com/user-attachments/assets/6b278be1-6800-41c0-a73d-31f41e97d7b8" />
 
-Com as seguintes configurações:
-> precisa **Elevate role** para essa autorização acontecer  
+E criamos um **Menu Item** com o nome de **New Post** com as seguintes configurações:  
+> é importante clicar em *Elevate role* para essa autorização acontecer!  
 
 - Clica no **Parent:** `More`  
   (que por sua vez tem como parent o `Employee Center Menu`)
@@ -79,9 +79,9 @@ Essa configuração permite que o usuário acesse o formulário diretamente pelo
 
 O usuário consegue:
 - Acessar o portal **Employee Center**
-- Localizar o Menu Item criado
-- Abrir o Record Producer
-- Submeter uma nova postagem de forma estruturada e controlada
+- Localizar o **Menu Item** criado
+- Abrir o **Record Producer**
+- **Submeter uma nova postagem** de forma estruturada e controlada
 
 ## 🧠 Aprendizados
 
