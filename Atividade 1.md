@@ -120,16 +120,16 @@ canais forem cadastrados, como por exemplo:
 ## 8. Application Menus e Modules
 
 Criar um **Application Menus** com módulos identados para:
-
 -   Visualizar Channels: Criar e Listar
 -   Visualizar Posts: Criar e Listar
 
 <img width="309" height="282" alt="image" src="https://github.com/user-attachments/assets/9876602e-eee8-4db5-aabf-1cb462d76cc0" />
 
-> Utilizar o ícone de edição (lápis) à direita de cada submenu para definir a ordem (Order).  
+Em **System Definition / Application Menus** - clique na sua aplicação, e faça as devidas alterações em **Order** e em **Link type**.  
 
-Ou vá em Application Menus - localize a sua aplicação, e faça as devidas alterações em **Order** e em **Link type**.
 <img width="1410" height="585" alt="image" src="https://github.com/user-attachments/assets/9a133831-2dfa-4a08-96e6-462bf53088ce" />
+
+> Pode-se utilizar o ícone de edição (lápis) à direita de cada submenu para editar.
 
 ---
 👉🏻 [Clique aqui para voltar ao Readme](https://github.com/DrikaDev/Social-Media-Management/blob/main/README.md)📒
