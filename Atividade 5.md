@@ -77,9 +77,16 @@ Rolamos para baixo para encontrar a aba chamada *Available For* e clicamos no *S
 Clicamos em Roles e adicionamos as roles social_analyst e social_manager:  
 <img width="496" height="96" alt="image" src="https://github.com/user-attachments/assets/c13e1860-e8b5-4f11-bcaa-cab5b5867a2c" />
 
-## Realize o teste com o Abraham Lincoln:
-Ao copiarmos a URL do **Catalog Item** de um usuário *autorizado* (Analisty ou Manager), e tentarmos acessar via impersonate com algum outro usuário sem as 
-roles necessárias, como por exemplo o Abraham Lincoln que não faz parte de nenhum dos grupos, o sistema bloqueia o acesso exibindo a seguinte mensagem de restrição:  
+## Realizando testes:
+
+### Teste 1
+Ao impersonar com o Abraham Lincoln que não faz parte de nenhum dos grupos:  
+<img width="1428" height="277" alt="image" src="https://github.com/user-attachments/assets/1e0c930b-1aa3-48c2-a92e-7ff781002744" />
+Vemos que o **New Post** automaticamente desaparece:  
+<img width="1423" height="136" alt="image" src="https://github.com/user-attachments/assets/7fa30da8-799a-4099-9d29-49449da16e59" />
+
+### Teste 2
+Ao copiarmos a URL do **Catalog Item** de um usuário *autorizado* (Analisty ou Manager), e colarmos numa guia anônima para tentarmos acessar via impersonate com algum outro usuário sem as roles necessárias, como por exemplo o Abraham Lincoln que não faz parte de nenhum dos grupos, o sistema bloqueia o acesso exibindo a seguinte mensagem de restrição:  
 <img width="1430" height="262" alt="image" src="https://github.com/user-attachments/assets/88c0c08e-9b1e-4714-87ec-6635966b162f" />
 
 ---
