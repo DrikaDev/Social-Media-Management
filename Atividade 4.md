@@ -3,6 +3,7 @@
 Nesta atividade, criamos um **Record Producer** para permitir que os usuários submetam postagens de forma simplificada por meio do **Catálogo de Serviços**, 
 além da configuração de acesso via **Employee Center**.  
 
+> **O que é um Record Producer?**  
 > Um **Record Producer** é um item do **Catálogo de Serviços** que permite aos usuários criarem registros em uma tabela do sistema através de um formulário amigavel no portal.  
 > Ele é como uma **"ponte"** entre o usuário final e o banco de dados (a tabela administrativa).  
 
