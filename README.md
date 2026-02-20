@@ -29,9 +29,9 @@ A atividade avaliou conhecimentos práticos na plataforma ServiceNow, incluindo:
 ## 💡Explicação de cada etapa do desafio
 
 - Atividade 1 - [Criação da aplicação e das tabelas](https://github.com/DrikaDev/Social-Media-Management/blob/main/Atividade%201.md)  
-- Atividade 2 - [Segurança e acessos](https://github.com/DrikaDev/Social-Media-Management/blob/main/Atividade%202.md)
+- Atividade 2 - [Governança: Segurança e acessos](https://github.com/DrikaDev/Social-Media-Management/blob/main/Atividade%202.md)
 - Atividade 3 - [Flow Designer](https://github.com/DrikaDev/Social-Media-Management/blob/main/Atividade%203.md) 
-- Atividade 4 - [Catálogo de Serviços e Portal](https://github.com/DrikaDev/ServiceNow-Social-Media-Management/blob/main/Atividade%204.md) 
+- Atividade 4 - [Record Producer: Catálogo de Serviços e Portal](https://github.com/DrikaDev/ServiceNow-Social-Media-Management/blob/main/Atividade%204.md) 
 - Atividade 5 - [Extra: Process Flow / UI Policies](https://github.com/DrikaDev/ServiceNow-Social-Media-Management/blob/main/Atividade%205.md)  
 
 ## ▶️ Demonstração
@@ -41,7 +41,6 @@ A atividade avaliou conhecimentos práticos na plataforma ServiceNow, incluindo:
 - Navegação pelos módulos
 - Testes de permissões com diferentes usuários
 - Funcionamento geral da solução
-> O vídeo faz parte da entrega oficial do desafio.
 
 ## 🧠 Aprendizados
 
