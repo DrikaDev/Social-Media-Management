@@ -60,6 +60,7 @@ Esse processo foi essencial para consolidar meu entendimento prático na platafo
 - Navegação pelos módulos
 - Testes de permissões com diferentes usuários
 - Funcionamento geral da solução
+- [Clique aqui para assistir](https://youtu.be/S3IP5ZRUdPs)
 
 ## 🧠 Aprendizados
 
