@@ -4,7 +4,7 @@ Nesta atividade, desenvolvemos uma aplicação funcional no ServiceNow, criando 
 
 ## 1. Criação da Aplicação
 
-Utilizando o App Engine Studio, criar uma nova aplicação escopada chamada **Social Media Management**
+Utilizando o App Engine Studio, criamos uma nova aplicação escopada chamada **Social Media Management**
 
 <img width="1434" height="245" alt="image" src="https://github.com/user-attachments/assets/ff40fce0-0028-4841-90d3-0af350117ba2" />
 
